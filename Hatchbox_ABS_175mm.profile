@@ -189,7 +189,7 @@ retraction_dual_amount: 16.5
 retraction_enable: true
 retraction_hop: 0.1
 retraction_min_travel: 1.5
-retraction_minimal_extrusion: 0.005
+retraction_minimal_extrusion: 0.02
 retraction_speed: 20
 skirt_gap: 3.0
 skirt_line_count: true
