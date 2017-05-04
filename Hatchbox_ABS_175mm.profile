@@ -1,7 +1,7 @@
 _description: Imported from Rostock MAX v2.ini on 2016-06-03 03:33
 _display_name: Hatchbox ABS 1.75mm
 bottom_layer_speed: 20
-bottom_thickness: 0.1
+bottom_thickness: 0.15
 brim_line_count: 20
 cool_head_lift: false
 cool_min_feedrate: 10
