@@ -144,14 +144,14 @@ end_gcode:
   '
 fan_enabled: true
 fan_full_height: 0.5
-fan_speed: 50
+fan_speed: 100
 fan_speed_max: 100
 filament_diameter:
 - 1.75
 - false
 - false
 - false
-filament_flow: 70
+filament_flow: 80
 fill_density: 40
 fill_overlap: 15
 first_layer_width_factor: 100
