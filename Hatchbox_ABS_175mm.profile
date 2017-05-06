@@ -177,7 +177,7 @@ print_temperature:
 - false
 raft_airgap: 0.22
 raft_base_linewidth: 1.0
-raft_base_thickness: 0.3
+raft_base_thickness: 0.125
 raft_interface_linewidth: 0.4
 raft_interface_thickness: 0.27
 raft_line_spacing: 3.0
