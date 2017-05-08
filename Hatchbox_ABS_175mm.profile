@@ -142,7 +142,7 @@ end_gcode:
   ;{profile_string}
 
   '
-fan_enabled: false
+fan_enabled: true
 fan_full_height: 0.5
 fan_speed: 100
 fan_speed_max: 100
