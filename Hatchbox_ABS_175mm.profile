@@ -5,7 +5,7 @@ bottom_thickness: 0.125
 brim_line_count: 20
 cool_head_lift: false
 cool_min_feedrate: 10
-cool_min_layer_time: 5
+cool_min_layer_time: 10
 end_gcode:
 - '; M104 S0
 
@@ -171,7 +171,7 @@ platform_adhesion: brim
 print_bed_temperature: 95
 print_speed: 80
 print_temperature:
-- 230
+- 220
 - false
 - false
 - false
