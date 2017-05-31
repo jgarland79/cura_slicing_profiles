@@ -151,7 +151,7 @@ filament_diameter:
 - false
 - false
 - false
-filament_flow: 80
+filament_flow: 60
 fill_density: 40
 fill_overlap: 15
 first_layer_width_factor: 100
@@ -171,7 +171,7 @@ platform_adhesion: brim
 print_bed_temperature: 60
 print_speed: 80
 print_temperature:
-- 200
+- 210
 - false
 - false
 - false
