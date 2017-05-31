@@ -171,7 +171,7 @@ platform_adhesion: brim
 print_bed_temperature: 60
 print_speed: 80
 print_temperature:
-- 180
+- 200
 - false
 - false
 - false
