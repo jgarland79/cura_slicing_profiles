@@ -1,5 +1,5 @@
 _description: Imported from Rostock MAX v2.ini on 2016-06-03 03:33
-_display_name: Hatchbox ABS 1.75mm
+_display_name: SeeMeCNC ABS 1.75mm
 bottom_layer_speed: 20
 bottom_thickness: 0.125
 brim_line_count: 20
